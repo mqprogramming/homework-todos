@@ -1,0 +1,11 @@
+body {
+  background-color: aqua;
+}
+
+li.high-priority {
+  color: green;
+}
+
+li.low-priority {
+  color: red;
+}
